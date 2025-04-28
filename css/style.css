@@ -1,4 +1,64 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Isaaq Simon
+* Created on: April 2025
 * This file contains the CSS for index.html
 */
+/* Body styling */
+body {
+    background: linear-gradient(135deg, #a1c4fd, #c2e9fb);
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    padding-top: 50px;
+    margin: 0;
+}
+
+/* Container card */
+.container {
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    display: inline-block;
+}
+
+/* Input field styling */
+input[type="number"] {
+    padding: 10px;
+    width: 150px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+}
+
+/* Button styling */
+button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+/* Result styling */
+.result {
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Cold message */
+.cold {
+    color: blue;
+}
+
+/* Hot message */
+.hot {
+    color: red;
+}
