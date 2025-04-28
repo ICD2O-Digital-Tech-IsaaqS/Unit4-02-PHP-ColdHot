@@ -5,10 +5,10 @@
   <meta name="keywords" content="Immaculata, ICD2O">
   <meta name="author" content="Isaaq Simon">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="apple-touch-icon" sizes="180x180" href="./favicon_io (13)/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="./favicon_io (13)/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="./favicon_io (13)/favicon-16x16.png">
-  <link rel="manifest" href="./favicon_io (13)/site.webmanifest">
+  <link rel="apple-touch-icon" sizes="180x180" href="./favicon_io (15)/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="./favicon_io (15)/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="./favicon_io (15)/favicon-16x16.png">
+  <link rel="manifest" href="./favicon_io (15)/site.webmanifest">
   <title>Temperature Checker</title>
   <!-- Link to external CSS file -->
   <link rel="stylesheet" href="./css/style.css">
